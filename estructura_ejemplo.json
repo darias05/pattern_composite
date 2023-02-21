@@ -1,0 +1,50 @@
+{
+    "name": "Fedex",
+    "price": 0,
+    "items": [
+      {
+        "name": "Package 1",
+        "price": 0,
+        "items": [
+          {
+            "name": "Hammer",
+            "price": 15000
+          }
+        ]
+      },
+      {
+        "name": "Package 4",
+        "price": 0,
+        "items": [
+          {
+            "name": "Package 2",
+            "price": 0,
+            "items": [
+              {
+                "name": "Cell phone",
+                "price": 4600000
+              },
+              {
+                "name": "Headphones",
+                "price": 500000
+              }
+            ]
+          },
+          {
+            "name": "Package 3",
+            "price": 0,
+            "items": [
+              {
+                "name": "Phone charger",
+                "price": 110000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Bill",
+        "price": 0
+      }
+    ]
+  }
